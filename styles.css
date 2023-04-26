@@ -1,0 +1,44 @@
+.logo-dragon {
+    max-height: 40px;
+    background-color: rgb(95, 75, 75);
+
+}
+.demo-content {
+    padding: 15px;
+    background: #dbdfe5;
+}
+
+.bg-alt {
+    background: #abb1b8;
+}
+
+.main-content {
+    min-height: 230px;
+}
+
+.sidebar-content {
+    min-height: 100px;
+    margin-bottom: 30px;
+}
+.carousel-inner{
+    text-align: 300px;
+   
+   
+}
+.carousel-item{
+    text-align: center;
+}
+.carousel-inner{
+    
+    clip-path: ellipse();
+   clip-path:calc( 500% 0, 100% 100%, 0 100%);
+   
+   max-height: 320px;
+   size-adjust: 3200w;
+
+    
+}
+body{
+    background-color: rgb(187, 13, 13);
+}
+
